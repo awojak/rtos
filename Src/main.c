@@ -65,6 +65,7 @@ osThreadId defaultTaskHandle;
 
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
+int user;
 
 /* USER CODE END PV */
 
